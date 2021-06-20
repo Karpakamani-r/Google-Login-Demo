@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GoogleLoginDemo</string>
+    <string name="google_login">Google login</string>
+</resources>
